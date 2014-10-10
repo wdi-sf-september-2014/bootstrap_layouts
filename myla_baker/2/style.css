@@ -1,0 +1,36 @@
+.products {
+	border-bottom: 1px solid gray; 
+	padding-bottom:10px;
+}
+.motto {
+	text-align: center;
+	padding:40px 20px;
+	background-color: #E0E0EB;
+}
+.theteam {
+	padding-top:30px; 
+	padding-bottom:20px;
+}
+.teampics {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.thumbs {
+	padding-top: 15px;
+}
+.email {
+	text-align:center; 
+	border-top: 1px solid black; 
+	border-bottom: 1px solid black;
+}
+.emailspace {
+	padding-top:40px; 
+	padding-bottom:40px;
+}
+.socials {
+	padding-top:40px;
+}
+.copy {
+	padding-top:40px; 
+	text-align:center;
+}
